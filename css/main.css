@@ -1,0 +1,13 @@
+li{
+	display: inline-block;
+}
+.slide-fade-enter,
+.slide-fade-leave-to{
+	opacity: 0;
+	transform: translateX(10px);
+}
+
+.alide-fade-enter-active,
+.slide-fade-leave-active{
+	transition: 0.5s ease;
+}
