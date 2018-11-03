@@ -13,15 +13,21 @@ li{
 }
 
 body{
+	font-family: 'Open Sans', sans-serif;
 	padding: 1%;
 }
 a{
+	font-family: 'Open Sans', sans-serif;
 	color:#000;
 }
 a:hover{
+	font-family: 'Open Sans', sans-serif;
 	color:#000;
 	text-decoration: underline;
 }
 #view{
 	padding: 5%;
+}
+h1{
+	font-family: 'Merriweather', serif;
 }

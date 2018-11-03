@@ -40,7 +40,7 @@ const faq={
 	template: `
 		<div class="text-center">
 			<h1>FAQ</h1>
-			<img src="http://www.leesdesignseries.com/wp-content/uploads/2016/06/faq-icon-1.png">
+			<img src="http://www.leesdesignseries.com/wp-content/uploads/2016/06/faq-icon-1.png" alt="faq" class="w-50">
 			<p>Here is our FAQ section.</p>
 		</div>
 	`
@@ -50,7 +50,7 @@ const contact={
 	template: `
 		<div class="text-center">
 			<h1>Contact</h1>
-			<img src="https://i2.wp.com/fcpp.org/wp-content/uploads/contact.jpg?fit=888%2C802&ssl=1">
+			<img src="https://i2.wp.com/fcpp.org/wp-content/uploads/contact.jpg?fit=888%2C802&ssl=1" alt="contact us" class="w-50">
 			<p>Contact us!</p>
 		</div>
 	`
